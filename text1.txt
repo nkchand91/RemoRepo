@@ -3,3 +3,5 @@
 =======
 file for conflicts change
 >>>>>>> master
+
+Update 3
