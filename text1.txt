@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  this is the update made on branch test1for conflict test
+=======
+file for conflicts change
+>>>>>>> master
